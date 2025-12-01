@@ -137,4 +137,4 @@ window.bind("<KeyRelease>", change_direction)
 window.bind("<space>", restart)
 
 
-window.mainloop()
+window.mainloop() 
